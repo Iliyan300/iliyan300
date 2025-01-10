@@ -12,11 +12,11 @@
 ---
 
 ## 📂 Featured Projects:
-- [**E-commerce Platform**](https://github.com/username/ecommerce-site): To be continue...
+- [**Tenzies Game**](tenziescontest.netlify.app): 
   
-- [**Portfolio Website**](https://github.com/username/portfolio):To be continue...
+- [**Cleaning Services Website**](https://iliyan300.github.io/bulsauber-demo.github.io/):
 
-- [**Task Manager App**](https://github.com/username/task-manager): To be continue...
+- [**Trivia App**](smartyquizz.netlify.app/): 
 
 ---
 
