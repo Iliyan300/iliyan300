@@ -12,11 +12,11 @@
 ---
 
 ## 📂 Featured Projects:
-- [**Tenzies Game**](tenziescontest.netlify.app): 
+- [**Tenzies Game**](https://github.com/Iliyan300/Tenzies-Game): 
   
 - [**Cleaning Services Website**](https://iliyan300.github.io/bulsauber-demo.github.io/):
 
-- [**Trivia App**](smartyquizz.netlify.app/): 
+- [**Trivia App**](https://github.com/Iliyan300/Trivia-App): smartyquizz.netlify.app/
 
 ---
 
