@@ -16,7 +16,7 @@
   
 - [**Cleaning Services Website**](https://iliyan300.github.io/bulsauber-demo.github.io/)
 
-- [**Luxury Hotel Website**](https://iliyan300.github.io/Felix-Kanitz-Hotel/)
+- [**Luxury Hotel Website**](https://github.com/Iliyan300/Felix-Kanitz-Hotel.git)
 
 - [**Trivia App**](https://github.com/Iliyan300/Trivia-App) 
 
