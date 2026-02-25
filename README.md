@@ -5,9 +5,9 @@
 ---
 
 ## 🛠️ My Toolbox:
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Bootstrap
-- **Dev Tools:** Git, Webpack, npm, Figma
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Shopify Liquid
+- **Frameworks/Libraries:** React
+- **Dev Tools:** Git, Webpack, npm, Shopify CLI, Figma, Browser dev tools
 
 ---
 
